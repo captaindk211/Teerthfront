@@ -15,7 +15,7 @@ dotenv.config();
 const app = express();
 const port = process.env.PORT || 8000;
 const corsOptions = {
-  origin: "https://teerth-saathi.vercel.app",
+  origin: "https://teerth-saathi-dks-projects-0c9fecd3.vercel.app",
   credentials: true,
 };
 
